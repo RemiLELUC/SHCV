@@ -11,6 +11,8 @@ year={2024}
 }
 > 
 
+This implementation is made by [Rémi Leluc](https://remileluc.github.io/)
+
 ## Description 
 
 The different folders contain the code of the experimental results, the code is written in Python3
