@@ -11,7 +11,7 @@ This implementation is made by [Rémi LELUC](https://remileluc.github.io/).
 leluc2024slicedwasserstein,
 title={Sliced-Wasserstein Estimation with Spherical Harmonics as Control Variates},
 author={Leluc, R{\'e}mi and Dieuleveut, Aymeric and Portier, Fran{\c{c}}ois and Segers, Johan and Zhuman, Aigerim},
-booktitle={Proceedings of the 41th International Conference on Machine Learning},
+booktitle={Proceedings of the 41st International Conference on Machine Learning},
 year={2024}
 }
 ```
