@@ -69,5 +69,5 @@ All the different Sliced-Wasserstein estimates are implemented in the script 'sl
 # MC estimate
 >>> I_mc = SW_MC(X=X_sample,Y=Y_sample,seed=0,L=500,p=2)
 # SHCV estimate
->>> I_cv = SW_CV(X=X_sample,Y=Y_sample,seed=0,L=500,p=2,Phi=Phi)
+>>> I_cv = SHCV(X=X_sample,Y=Y_sample,seed=0,L=500,p=2,Phi=Phi)
 ``` 
